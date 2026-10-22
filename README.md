@@ -25,9 +25,11 @@ A simple, browser-based image-to-binary converter built using HTML, CSS, and Jav
 
 No installation or backend server is required for local use.
 
-## 🌐 Live Demo
+##🌐 Live Demo
 
-Coming soon.
+🚀 Try BinaryVision online: https://binary-vision.netlify.app
+
+Open the live website and convert your images directly in your browser.
 
 ## 👨‍💻 Developer
 
